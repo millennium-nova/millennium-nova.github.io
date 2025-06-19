@@ -22,7 +22,7 @@ repository               : "milennium-nova/millennium-nova.github.io"
 #               追加のカスタマイズは /_includes/author-profile.html を編集することで可能です。
 author:
   # Biographic information
-  avatar           : "kazukihigo.png"
+  avatar           : "kazukihigo.jpg"
   name             : "Kazuki Higo"
   pronouns         : # example: "she/her"  
   bio              : "Graduate student at the University of Tsukuba"
