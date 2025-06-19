@@ -1,13 +1,13 @@
-# Welcome to Jekyll!
+# Jekyllへようこそ！
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# この設定ファイルは、サイト全体に影響する設定や、
+# 一度設定すれば頻繁に編集する必要のない値を記述するためのものです。
+# 技術的な理由により、このファイルは `jekyll serve -l -H localhost` を使用しても
+# 自動的には再読み込みされません。このファイルを変更した場合は、
+# サーバープロセスを再起動してください。
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "ja-JP"
 site_theme               : "default"
 title                    : "Kazuki Higo"
 title_separator          : "-"
