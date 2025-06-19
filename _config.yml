@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kazuki Higo / Test Page"
+title                    : "Kazuki Higo"
 title_separator          : "-"
 name                     : &name "Kazuki Higo"
 description              : &description "This is a Test Page."
@@ -17,19 +17,19 @@ url                      : https://millennium-nova.github.io # the base hostname
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "milennium-nova/millennium-nova.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# サイトの著者 - 以下の設定はサイドバーに表示される著者情報を制御します。
+#               フィールドが空白の場合、アイコンとリンクは表示されません。それ以外の場合は表示されます。
+#               追加のカスタマイズは /_includes/author-profile.html を編集することで可能です。
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "kazukihigo.png"
+  name             : "Kazuki Higo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Graduate student at the University of Tsukuba"
+  location         : "Tsukuba, Japan"
+  employer         : "University  of Tsukuba"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "higo.kazuki.tkb_cw@u.tsukuba.ac.jp" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
