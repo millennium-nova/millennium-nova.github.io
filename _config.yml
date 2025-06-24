@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "ja-JP"
 site_theme               : "default"
-title                    : "Kazuki Higo"
+title                    : "肥後 千紀 Kazuki Higo"
 title_separator          : "-"
 name                     : &name "Kazuki Higo"
 description              : &description "This is a Test Page."
