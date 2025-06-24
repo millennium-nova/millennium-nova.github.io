@@ -226,7 +226,7 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: false
-    permalink: /:collection/:path/ teaching:
+    permalink: /:collection/:path/
     output: false
     permalink: /:collection/:path/
 
