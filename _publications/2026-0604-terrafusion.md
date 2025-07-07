@@ -2,12 +2,22 @@
 title: "TerraFusion: Joint Generation of Terrain Geometry and Texture Using Latent Diffusion Models"
 collection: publications
 category: manuscripts
+authors: Kazuki Higo, Toshiki Kanai, Yuki Endo, Yoshihiro Kanamori
 permalink: /publication/2025-06-04-terrafusion
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-06-04
-venue: 'Virtual Reality & Intelligent Hardware'
+journal: 'Virtual Reality & Intelligent Hardware'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://arxiv.org/pdf/2505.04050'
+# paperurl: 'https://arxiv.org/pdf/2505.04050'
+links:
+  - label: "[Project]"
+    url:  https://millennium-nova.github.io/terra-fusion-page/
+  - label: "[Paper]"
+    url:  https://arxiv.org/abs/2505.04050
+  - label: "[Code]"
+    url:  https://github.com/millennium-nova/terra-fusion
+  - label: "[Dataset]"
+    url:  https://huggingface.co/datasets/millennium-nova/
 share: false
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
