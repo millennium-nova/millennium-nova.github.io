@@ -4,9 +4,8 @@ collection: publications
 category: manuscripts
 authors: Kazuki Higo, Toshiki Kanai, Yuki Endo, Yoshihiro Kanamori
 permalink: /publication/2025-06-04-terrafusion
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '*Virtual Reality & Intelligent Hardware (Proc. of Computer Graphics International 2025), Vol. , No. , pp. -, 2025*'
 date: 2025-06-04
-journal: 'Virtual Reality & Intelligent Hardware'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://arxiv.org/pdf/2505.04050'
 links:
