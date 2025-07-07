@@ -8,6 +8,7 @@ date: 2025-06-04
 venue: 'Virtual Reality & Intelligent Hardware'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2505.04050'
+share: false
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 # title: "Paper Title Number 1"

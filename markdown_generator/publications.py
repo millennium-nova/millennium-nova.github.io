@@ -1,20 +1,19 @@
 
 # coding: utf-8
 
-# # Publications markdown generator for academicpages
-# 
-# Takes a TSV of publications with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook, with the core python code in publications.py. Run either from the `markdown_generator` folder after replacing `publications.tsv` with one that fits your format.
-# 
-# TODO: Make this work with BibTex and other databases of citations, rather than Stuart's non-standard TSV format and citation style.
-# 
+# # academicpages用 論文Markdownジェネレーター
+#
+# メタデータ付きの論文TSVを、[academicpages.github.io](academicpages.github.io)で利用できる形式に変換します。このスクリプトはJupyterノートブックとしても動作しますが、コアのPythonコードはpublications.pyにあります。`publications.tsv`を自分のフォーマットに合わせて置き換えた後、`markdown_generator`フォルダから実行してください。
+#
+# TODO: Stuartの独自TSV形式や引用スタイルではなく、BibTexや他の引用データベースにも対応させること。
 
-# ## Data format
-# 
-# The TSV needs to have the following columns: pub_date, title, venue, excerpt, citation, site_url, and paper_url, with a header at the top. 
-# 
-# - `excerpt` and `paper_url` can be blank, but the others must have values. 
-# - `pub_date` must be formatted as YYYY-MM-DD.
-# - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/publications/YYYY-MM-DD-[url_slug]`
+# ## データ形式
+#
+# TSVには以下のカラムが必要です: pub_date, title, venue, excerpt, citation, site_url, paper_url。ヘッダー行も必要です。
+#
+# - `excerpt`と`paper_url`は空欄でも構いませんが、他のカラムは必須です。
+# - `pub_date`はYYYY-MM-DD形式で記載してください。
+# - `url_slug`は.mdファイル名や論文ページのパーマリンクURLの説明部分になります。.mdファイル名は`YYYY-MM-DD-[url_slug].md`、パーマリンクは`https://[yourdomain]/publications/YYYY-MM-DD-[url_slug]`となります。
 
 
 # ## Import pandas
