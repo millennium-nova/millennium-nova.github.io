@@ -76,7 +76,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
+# 出版物カテゴリ - 以下は出版物カテゴリとその見出しのリストです
 publication_category:
   books:
     title: 'Books'
@@ -85,9 +85,9 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
-# Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+# サイト設定
+teaser                   : "500x300.png" # フォールバックティーザー画像のファイル名を /images/ に配置します。例: "500x300.png"
+breadcrumbs              : false # true または false (デフォルト)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
