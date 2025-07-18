@@ -16,8 +16,6 @@ links:
     url:  https://arxiv.org/abs/2505.04050
   - label: "[Code]"
     url:  https://github.com/millennium-nova/terra-fusion
-  - label: "[Dataset]"
-    url:  https://huggingface.co/datasets/millennium-nova/
 share: false
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
