@@ -7,9 +7,25 @@ redirect_from:
   - /about.html
 ---
 
+# Profile
 
-**This page is currently under construction.**
+Master's Program in Computer Science,  
+Degree Programs in Systems and Information Engineering,  
+Graduate School of Science and Technology,  
+University of Tsukuba  
+[Computational Geometry and Graphics Laboratory (CGG)](https://www.cgg.cs.tsukuba.ac.jp/)
 
+筑波大学 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム 博士前期課程  
+[計算幾何学とグラフィックス (CGG) 研究室
+](https://www.cgg.cs.tsukuba.ac.jp/)
+# Research
+A Study of Image Synthesis and Editing Using Deep Learning  
+深層学習にを用いた画像合成・編集手法に関する研究  
+
+# Bio 
+2019年3月  大分県立大分上野丘高等学校 卒業  
+2025年3月  筑波大学 情報学群 情報メディア創成学類 卒業  
+2025年4月~ 筑波大学 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム 博士前期課程  
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
