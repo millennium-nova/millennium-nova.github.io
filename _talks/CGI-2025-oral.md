@@ -9,4 +9,4 @@ date: 2025-7-17
 location: "The Hong Kong Polytechnic University, Kowloon, Hong Kong, China"
 ---
 
-![CGI2025](../images/500x300.png)
+![CGI2025](../../images/talks/CGI_2025.png)
