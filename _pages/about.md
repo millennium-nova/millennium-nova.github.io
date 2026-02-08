@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Profile
+## Profile
 
 Master's Program in Computer Science,  
 Degree Programs in Systems and Information Engineering,  
@@ -18,11 +18,11 @@ University of Tsukuba
 筑波大学 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム 博士前期課程  
 [計算幾何学とグラフィックス (CGG) 研究室
 ](https://www.cgg.cs.tsukuba.ac.jp/)
-# Research
+## Research
 A Study of Image Synthesis and Editing Using Deep Learning  
 深層学習にを用いた画像合成・編集手法に関する研究  
 
-# Bio 
+## Bio 
 2019年3月  大分県立大分上野丘高等学校 卒業  
 2025年3月  筑波大学 情報学群 情報メディア創成学類 卒業  
 2025年4月~ 筑波大学 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム 博士前期課程  
