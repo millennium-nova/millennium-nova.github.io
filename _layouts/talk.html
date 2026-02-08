@@ -52,7 +52,7 @@ layout: default
         {% include page__taxonomy.html %}
       </footer>
 
-      {% comment %}{% if page.share %}{% include social-share.html %}{% endif %}{% endcomment %}
+      {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}
     </div>
