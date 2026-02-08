@@ -6,7 +6,7 @@ authors: Kazuki Higo, Toshiki Kanai, Yuki Endo, Yoshihiro Kanamori
 permalink: /publication/2025-06-04-terrafusion
 excerpt: 
 date: 2025-11-06
-venue: 'Virtual Reality & Intelligent Hardware (Proc. of Computer Graphics International 2025), Vol. 7, No. 6, pp. 560-576, '
+venue: 'Virtual Reality & Intelligent Hardware (Proc. of Computer Graphics International 2025), Vol. 7, No. 6, pp. 560-576'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://arxiv.org/pdf/2505.04050'
 links:
