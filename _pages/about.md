@@ -21,7 +21,8 @@ University of Tsukuba
 ## Research
 A Study of Image Synthesis and Editing Using Deep Learning  
 深層学習にを用いた画像合成・編集手法に関する研究  
-Keywords: Image Generation, Diffusion Model, Deep Learning, Terrain, Computer Graphics  
+
+**Keywords:** Image Generation, Diffusion Model, Deep Learning, Terrain, Computer Graphics
 
 ## Bio 
 2019年3月  大分県立大分上野丘高等学校 卒業  
