@@ -20,7 +20,7 @@ University of Tsukuba
 ](https://www.cgg.cs.tsukuba.ac.jp/)
 ## Research
 A Study of Image Synthesis and Editing Using Deep Learning  
-深層学習にを用いた画像合成・編集手法に関する研究  
+深層学習を用いた画像合成・編集手法に関する研究  
 
 **Keywords:** Image Generation, Diffusion Model, Deep Learning, Terrain, Computer Graphics
 
