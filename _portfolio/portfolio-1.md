@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Terrain Generator"
+excerpt: "This is a demo app for our research. You can draw a sketch and generate terrain from it.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
