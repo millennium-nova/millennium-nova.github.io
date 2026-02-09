@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# About Me
 
 ## Profile
 
@@ -18,6 +20,8 @@ University of Tsukuba
 筑波大学 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム 博士前期課程  
 [計算幾何学とグラフィックス (CGG) 研究室
 ](https://www.cgg.cs.tsukuba.ac.jp/)
+
+
 ## Research
 A Study of Image Synthesis and Editing Using Deep Learning  
 深層学習を用いた画像合成・編集手法およびコンピュータグラフィックスへの応用についての研究
