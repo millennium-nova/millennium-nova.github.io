@@ -47,6 +47,7 @@ A Study of Image Synthesis and Editing Using Deep Learning
 - 研究で使用するものが多い
 
 ### Sub (たまに使うもの)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![GoogleEarthEngine](https://img.shields.io/badge/google%20earth%20engine-%234285F4?style=flat-square&logo=googleearthengine&logoColor=white)
 ![QGIS](https://img.shields.io/badge/qgis-%2393b023?&style=flat-square&logo=qgis&logoColor=white)
