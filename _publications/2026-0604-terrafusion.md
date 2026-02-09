@@ -10,7 +10,7 @@ venue: 'Virtual Reality & Intelligent Hardware (Proc. of Computer Graphics Inter
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://arxiv.org/pdf/2505.04050'
 links:
-  - label: "[Project]"
+  - label: "[Project Page]"
     url:  https://millennium-nova.github.io/terra-fusion-page/
   - label: "[Paper]"
     url:  https://www.sciencedirect.com/science/article/pii/S2096579625000713
