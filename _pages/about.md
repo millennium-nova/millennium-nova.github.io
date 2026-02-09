@@ -20,9 +20,61 @@ University of Tsukuba
 ](https://www.cgg.cs.tsukuba.ac.jp/)
 ## Research
 A Study of Image Synthesis and Editing Using Deep Learning  
-深層学習を用いた画像合成・編集手法に関する研究  
+深層学習を用いた画像合成・編集手法およびコンピュータグラフィックスへの応用についての研究
 
 **Keywords:** Image Generation, Diffusion Model, Deep Learning, Terrain, Computer Graphics
+
+## Skills & Technical Interests
+
+### Core (普段主に使っているもの)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Conda-Forge](https://img.shields.io/badge/Conda--Forge-000000?style=flat-square&logo=conda-forge&logoColor=white)
+[![Pixi](https://img.shields.io/badge/Pixi-FAC019?style=flat-square&logo=icoin&logoColor=white)](https://pixi.prefix.dev/latest/)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FEAA02?style=flat-square&logo=huggingface&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+- 研究で使用するものが多い
+
+### Sub (たまに使うもの)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![GoogleEarthEngine](https://img.shields.io/badge/google%20earth%20engine-%234285F4?style=flat-square&logo=googleearthengine&logoColor=white)
+![QGIS](https://img.shields.io/badge/qgis-%2393b023?&style=flat-square&logo=qgis&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=flat-square&logo=geopandas&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-0178A3?style=flat-square&logo=gdal&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- 衛星画像やその他データを扱う際に使うものが多い
+
+### Learning / Interested (勉強中・興味があるもの)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
+<!-- ![Vulkan](https://img.shields.io/badge/Vulkan-E01E2E?style=flat-square&logo=vulkan&logoColor=white) -->
+
+- ゲーム等のワークフローとその課題を理解し、自分の研究に取り込みたい。
+- 地形モデル制作を便利にするツール・機能を提供したい。
+
+## Personal Interests & Preferences
+
+### Hobbies
+- **Games**: 最近はあまり時間が取れず。オープンワールドゲームをよくやる。小島秀夫作品がとても好き。画面酔いしやすいので FPS などは苦手。
+- **Sports**: バドミントン、ランニング、バスケットボールなどが好き。ロードバイク (Cannondale CAAD 12) も所持しているが、数年前から腰椎ヘルニアなので、最近は全く乗れていない。
+- **Animes**: 色々見ながら十数年、特に京都アニメーション推し。アニメ以外にラノベも読む。魔法科高校の劣等生シリーズは特典も含めて (多分) 全巻持っている。
+- **Motorbike & Outdoor**: HONDA Cross Cub 110 に乗っている。カブでキャンプに行きたいとずっと言っているが、実現していない。志摩リンのようなキャンプライフに憧れている。
+- **Magic**: 特にクロースアップマジックが好き。高校生くらいまでは演技の練習も少ししていたが、最近は鑑賞ばかり。特に好きなマジシャンは前田知洋氏とレナート・グリーン氏
 
 ## Bio 
 2019年3月  大分県立大分上野丘高等学校 卒業  
