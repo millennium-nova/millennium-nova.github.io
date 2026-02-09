@@ -13,7 +13,7 @@ title                    : "肥後 千紀 Kazuki Higo"
 title_separator          : "-"
 name                     : &name "Kazuki Higo"
 description              : &description "This is a Test Page."
-url                      : "http://localhost:4000" # https://millennium-nova.github.io
+url                      : "https://millennium-nova.github.io" # "http://localhost:4000"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "milennium-nova/millennium-nova.github.io"
 
