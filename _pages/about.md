@@ -30,7 +30,14 @@ A Study of Image Synthesis and Editing Using Deep Learning
 
 ## Skills & Technical Interests
 
-### Core (普段主に使っているもの)
+### Licenses and Certifications
+- 普通自動車第一種免許 (2021/08)    
+- CG エンジニア検定 エキスパート (2022/12)  
+- 応用情報技術者 (2023/12)  
+
+### Core Tools (普段主に使っているもの)
+
+<div style="margin-left: 2em;" markdown="1">
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -43,10 +50,13 @@ A Study of Image Synthesis and Editing Using Deep Learning
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FEAA02?style=flat-square&logo=huggingface&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+</div>
 
 - 研究で使用するものが多い
 
-### Sub (たまに使うもの)
+### Sub Tools (たまに使うもの)
+
+<div style="margin-left: 2em;" markdown="1">
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![GoogleEarthEngine](https://img.shields.io/badge/google%20earth%20engine-%234285F4?style=flat-square&logo=googleearthengine&logoColor=white)
@@ -56,10 +66,12 @@ A Study of Image Synthesis and Editing Using Deep Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+</div>
 
 - 衛星画像やその他データを扱う際に使うものが多い
 
 ### Learning / Interested (勉強中・興味があるもの)
+<div style="margin-left: 2em;" markdown="1">
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -68,6 +80,7 @@ A Study of Image Synthesis and Editing Using Deep Learning
 ![Unity](https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
 <!-- ![Vulkan](https://img.shields.io/badge/Vulkan-E01E2E?style=flat-square&logo=vulkan&logoColor=white) -->
+</div>
 
 - ゲーム等のワークフローとその課題を理解し、自分の研究に取り込みたい。
 - 地形モデル制作を便利にするツール・機能を提供したい。
@@ -86,6 +99,8 @@ A Study of Image Synthesis and Editing Using Deep Learning
 2019年3月  大分県立大分上野丘高等学校 卒業  
 2025年3月  筑波大学 情報学群 情報メディア創成学類 卒業  
 2025年4月~ 筑波大学 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム 博士前期課程  
+2025年8月5日 ~ 9月31 NEC ビジュアルインテリジェンス研究所 インターンシップ  
+
 
 ## Awards
 筑波大学 情報学群 情報メディア創成学類長表彰 (2025)  
