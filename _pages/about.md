@@ -84,6 +84,10 @@ A Study of Image Synthesis and Editing Using Deep Learning
 
 - ゲーム等のワークフローとその課題を理解し、自分の研究に取り込みたい。
 
+### Others
+
+- ![Paiza](https://img.shields.io/badge/Paiza-5BC2DE?style=flat-square&logo=paiza&logoColor=white) A ランク
+
 ## Personal Interests & Preferences
 
 ### Hobbies
