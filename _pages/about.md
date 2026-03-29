@@ -82,7 +82,6 @@ A Study of Image Synthesis and Editing Using Deep Learning
 <!-- ![Vulkan](https://img.shields.io/badge/Vulkan-E01E2E?style=flat-square&logo=vulkan&logoColor=white) -->
 </div>
 
-- ゲーム等のワークフローとその課題を理解し、自分の研究に取り込みたい。
 
 ### Others
 
@@ -92,11 +91,11 @@ A Study of Image Synthesis and Editing Using Deep Learning
 
 ### Hobbies
 - **Game**: オープンワールドゲームをよくやる。特に小島秀夫作品が好き。三半規管が弱いので FPS などは苦手。
-- **Sport**: バドミントン🏸、ランニング🏃、バスケットボール🏀などが好き。ロードバイク🚵 (Cannondale CAAD 12) も所持している。元々はロングライドも頻繁に行っていたが、数年前に腰椎ヘルニアになり、現在は激しい乗り方は控えている。
-- **Anime**: どのスタジオの作品も好きだが、特に京都アニメーションを推している。アニメ以外にラノベも読む。魔法科高校の劣等生シリーズは特典も含めて (多分) 全巻持っている。
-- **Motorbike & Outdoor**: HONDA Cross Cub 110 に乗っている。カブでキャンプに行きたいとずっと言っているが、実現していない。志摩リン[*](https://yurucamp.jp/third/character/rin.php)のようなキャンプライフに憧れている。
-- **Magic**: 特にクロースアップマジックが好き。高校生くらいまでは演技の練習も少ししていたが、最近は鑑賞ばかり。好きなマジシャンは前田知洋氏とレナート・グリーン氏
-- **Music**: 全体的にネット発アーティストが多い。最近は [Empty old City](https://kamitsubaki.jp/artist/empty-old-city/) と [*Luna](https://www.ast-luna.com/) をよく聴いている。
+- **Sport**: バドミントン🏸、ランニング🏃、バスケットボール🏀、サイクリング🚵 
+- **Anime**: 特に京都アニメーション推し。アニメ以外にラノベも読む。
+- **Motorbike & Outdoor**: HONDA Cross Cub 110 に乗っており、カブでキャンプに行きたいとずっと言っている (言っているだけ)。ゆるキャン△は志摩リン[*](https://yurucamp.jp/third/character/rin.php)推し。
+- **Magic**: 特にクロースアップマジックが好き。最近は練習をサボり鑑賞ばかり。好きなマジシャンは前田知洋氏とレナート・グリーン氏
+- **Music**: 最近は [Empty old City](https://kamitsubaki.jp/artist/empty-old-city/) と [*Luna](https://www.ast-luna.com/) をよく聴く。
 
 ## Bio 
 2019年3月  大分県立大分上野丘高等学校 卒業  
