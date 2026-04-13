@@ -24,7 +24,7 @@ University of Tsukuba
 
 ## Research
 A Study of Image Synthesis and Editing Using Deep Learning  
-深層学習を用いた画像合成・編集手法およびコンピュータグラフィックスへの応用についての研究
+深層学習を用いた画像合成・編集手法の研究
 
 **Keywords:** Image Generation, Diffusion Model, Deep Learning, Terrain, Computer Graphics
 
@@ -52,8 +52,6 @@ A Study of Image Synthesis and Editing Using Deep Learning
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 </div>
 
-- 研究で使用するものが多い
-
 ### Sub Tools (たまに使うもの)
 
 <div style="margin-left: 2em;" markdown="1">
@@ -68,7 +66,6 @@ A Study of Image Synthesis and Editing Using Deep Learning
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 </div>
 
-- 衛星画像やその他データを扱う際に使うものが多い
 
 ### Learning / Interested (勉強中・興味があるもの)
 <div style="margin-left: 2em;" markdown="1">
@@ -85,17 +82,15 @@ A Study of Image Synthesis and Editing Using Deep Learning
 
 ### Others
 
-- ![Paiza](https://img.shields.io/badge/Paiza-5BC2DE?style=flat-square&logo=paiza&logoColor=white) A ランク
+- ![Paiza](https://img.shields.io/badge/Paiza-5BC2DE?style=flat-square&logo=paiza&logoColor=white) Rank A
 
 ## Personal Interests & Preferences
 
 ### Hobbies
-- **Game**: オープンワールドゲームをよくやる。特に小島秀夫作品が好き。三半規管が弱いので FPS などは苦手。
+- **Game**: オープンワールドゲーム
 - **Sport**: バドミントン🏸、ランニング🏃、バスケットボール🏀、サイクリング🚵 
-- **Anime**: 特に京都アニメーション推し。アニメ以外にラノベも読む。
-- **Motorbike & Outdoor**: HONDA Cross Cub 110 に乗っており、カブでキャンプに行きたいとずっと言っている (言っているだけ)。ゆるキャン△は志摩リン[*](https://yurucamp.jp/third/character/rin.php)推し。
-- **Magic**: 特にクロースアップマジックが好き。最近は練習をサボり鑑賞ばかり。好きなマジシャンは前田知洋氏とレナート・グリーン氏
-- **Music**: 最近は [Empty old City](https://kamitsubaki.jp/artist/empty-old-city/) と [*Luna](https://www.ast-luna.com/) をよく聴く。
+- **Ride**: HONDA Cross Cub 110, Cannondale CAAD 12
+- **Music**: [SawanoHiroyuki](https://www.sawanohiroyuki.com/), [Empty old City](https://kamitsubaki.jp/artist/empty-old-city/), [*Luna](https://www.ast-luna.com/) など
 
 ## Bio 
 2019年3月  大分県立大分上野丘高等学校 卒業  
