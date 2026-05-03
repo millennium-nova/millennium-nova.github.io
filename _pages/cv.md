@@ -1,13 +1,17 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
 robots: "noindex"
 ---
 
+<meta http-equiv="refresh" content="0; url=/" />
+<link rel="canonical" href="/" />
+<p>このページはトップページにリダイレクトされます。<a href="/">トップページへ</a></p>
+
+<!--
+元のCVページ内容:
+{% raw %}
 {% include base_path %}
 
 Education
@@ -63,3 +67,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+{% endraw %}
+-->
