@@ -15,7 +15,7 @@ name                     : &name "Kazuki Higo"
 description              : &description "This is a Test Page."
 url                      : "https://millennium-nova.github.io" # "http://localhost:4000" # localhost はローカルテスト用, "https://millennium-nova.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "milennium-nova/millennium-nova.github.io"
+repository               : "millennium-nova/millennium-nova.github.io"
 
 # サイトの著者 - 以下の設定はサイドバーに表示される著者情報を制御します。
 #               フィールドが空白の場合、アイコンとリンクは表示されません。それ以外の場合は表示されます。
