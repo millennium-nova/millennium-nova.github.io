@@ -87,13 +87,13 @@ A Study of Image Synthesis and Editing Using Deep Learning
 
 - ![Paiza](https://img.shields.io/badge/Paiza-5BC2DE?style=flat-square&logo=paiza&logoColor=white) Rank A
 
-## Personal Interests & Preferences
+<!-- ## Personal Interests & Preferences
 
 ### Hobbies
 - **Game**: オープンワールドゲーム
 - **Sport**: バドミントン🏸、ランニング🏃、バスケットボール🏀、サイクリング🚵 
 - **Ride**: HONDA Cross Cub 110, Cannondale CAAD 12
-- **Music**: [SawanoHiroyuki](https://www.sawanohiroyuki.com/), [Empty old City](https://kamitsubaki.jp/artist/empty-old-city/), [*Luna](https://www.ast-luna.com/) など
+- **Music**: [SawanoHiroyuki](https://www.sawanohiroyuki.com/), [Empty old City](https://kamitsubaki.jp/artist/empty-old-city/), [*Luna](https://www.ast-luna.com/) など -->
 
 ## Bio 
 2019年3月  大分県立大分上野丘高等学校 卒業  
