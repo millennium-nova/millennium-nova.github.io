@@ -5,8 +5,8 @@ date: 2023-08-31
 collection: portfolio
 ---
 
-- 取り組んだ期間: 4ヶ月弱
-- 使用技術
+
+- 使用ツール
     - Python, PyTorch, pix2pix (GAN)
 - 内容
     - image-to-image タスクで高い性能を発揮していた GAN ベースの pix2pix を用いて、白黒画像の自動着色モデルを学習した。<br> 

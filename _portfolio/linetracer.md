@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 <img src='/images/portfolio/linetracer01.jpg' alt='linetracer' style='width: 600px; height: auto;'><br>
-実験に使ったコードなどは [こちらのリポジトリ](https://github.com/millennium-nova/linetracer/)にあります。<br>
+[コードとか](https://github.com/millennium-nova/linetracer/)<br>
 
 
 
