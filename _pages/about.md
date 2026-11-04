@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -89,7 +88,7 @@ A Study of Image Synthesis and Editing Using Deep Learning
 - **Ride**: HONDA Cross Cub 110, Cannondale CAAD 12
 - **Music**: [SawanoHiroyuki](https://www.sawanohiroyuki.com/), [Empty old City](https://kamitsubaki.jp/artist/empty-old-city/), [*Luna](https://www.ast-luna.com/) など -->
 
-## Bio 
+## Bio
 2019年3月  大分県立大分上野丘高等学校 卒業  
 2025年3月  筑波大学 情報学群 情報メディア創成学類 卒業  
 2025年4月~ 筑波大学 理工情報生命学術院 システム情報工学研究群 情報理工学位プログラム 博士前期課程  
