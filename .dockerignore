@@ -1,0 +1,5 @@
+# Never send local editor state or credentials to the image builder.
+.devcontainer/state/
+.git/
+_site/
+.sass-cache/

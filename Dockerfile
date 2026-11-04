@@ -5,6 +5,7 @@ FROM ruby:3.2
 RUN apt-get update && apt-get install -y \
     build-essential \
     nodejs \
+    python3 \
     && rm -rf /var/lib/apt/lists/*
 
 

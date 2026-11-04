@@ -69,7 +69,42 @@ You should now be able to access the website from `localhost:4000`.
 
 ### Using the DevContainer in VS Code
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+Open the repository with **Dev Containers: Reopen in Container**. The site is
+served at http://localhost:4000. Source changes are watched with polling, and
+changes to `_config.yml` restart Jekyll automatically without restarting VS Code.
+Port forwarding only exposes the server; it does not rebuild the site.
+Changes to `Gemfile`, `Gemfile.lock`, or the Dockerfile still require a rebuild.
+For a standalone Docker session, `docker compose restart jekyll-site` also restarts
+Jekyll without rebuilding its image.
+
+#### コンテナを作り直しても Codex の履歴・拡張機能を残す
+
+Dev Container では次のデータをホストの作業フォルダーに保存します。
+
+| 保存対象 | ホスト側の保存先 |
+| --- | --- |
+| Codex の設定・認証情報・会話履歴 (`~/.codex`) | `.devcontainer/state/codex/` |
+| VS Code Server・拡張機能・拡張機能の状態 | `.devcontainer/state/vscode-server/` |
+
+**既存環境からの初回移行では、リビルドする前に、現在のコンテナのターミナルで実行してください。**
+
+```sh
+python3 .devcontainer/preserve-state.py
+```
+
+コピー完了を確認してから **Dev Containers: Rebuild Container** を実行します。
+会話を続けた場合は、リビルド直前にもう一度コマンドを実行してください。
+SQLite データベースはバックアップ API でコピーします。コピー中は別の Codex
+セッションでの作業を止めてください。コピー後の更新は次のコピーまで保存されません。
+初回リビルド後は永続化先へ直接書き込むため、通常このコマンドは不要です。
+リビルド中は接続が切れますが、再接続後に保存済みの会話を開けます。
+実行中の応答やプロセスそのものは引き継げません。
+
+保存先は Git と Docker のビルド対象から除外しています。認証情報を含むため、
+共有・公開しないでください。このフォルダーを削除したり、別の場所へクローンした
+場合は引き継がれません。別のマシンへ移す際は、このフォルダーも安全に移してください。
+ホスト側の初期化コマンドは `sh` のある環境（Linux / macOS / WSL）を想定しています。
+
 
 # Maintenance
 

@@ -1,0 +1,6 @@
+# Paths are relative to the first Compose file (the repository root).
+services:
+  jekyll-site:
+    volumes:
+      - ./.devcontainer/state/codex:/home/vscode/.codex
+      - ./.devcontainer/state/vscode-server:/home/vscode/.vscode-server

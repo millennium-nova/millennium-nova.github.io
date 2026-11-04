@@ -1,15 +1,21 @@
 {
     "name": "ACADEMIC PAGES",
-    "dockerComposeFile": "../docker-compose.yaml",
+    "dockerComposeFile": [
+        "../docker-compose.yaml",
+        "docker-compose.persist.yaml"
+    ],
     "service": "jekyll-site",
+    "initializeCommand": "umask 077 && mkdir -p .devcontainer/state/codex .devcontainer/state/vscode-server",
     "remoteEnv": {
+        "CODEX_HOME": "/home/vscode/.codex",
         "VSCODE_SERVER_DIR": "/home/vscode/.vscode-server"
     },
-    "runArgs": [
-        "--user",
-        "1000:1000"
-    ],
+    "customizations": {
+        "vscode": {
+            "extensions": ["openai.chatgpt"]
+        }
+    },
     "workspaceFolder": "/usr/src/app",
     "remoteUser": "vscode",
-    "forwardPorts": [4000] // Add port forwarding
+    "forwardPorts": [4000]
 }
